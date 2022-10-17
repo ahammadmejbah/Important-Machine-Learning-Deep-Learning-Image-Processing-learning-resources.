@@ -3,7 +3,6 @@
 Table of Contents
 =================
 
-  * [Books](#books)
   * [Best Websites to Learn AI/ML](#best-websites-to-learn-aiml)
   * [Python](#python)
   * [OpenCV](#opencv)
@@ -17,60 +16,6 @@ Table of Contents
   * [People to follow on twitter](#people-to-follow-on-twitter)
 
 <br />
-
-> ## Books
-
-<table>
-  <tr>
-     <td>Deep Learning- Ian Goodfellow, Aaron Courville, Yoshua Bengio</td>
-     <td>Deep Learning with Python - François Chollet</td>
-     <td>Grokking Deep Learning - Andrew W. Trask </td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/deep_learning.jpg" width=150></td>
-    <td><img src="static/francois_chollet.jpg" width=150></td>
-    <td><img src="static/grokking.jpeg" width=150></td>
-  </tr>
-
-  <tr>
-     <td>Generative Deep Learning - David Foster</td>
-     <td>Machine Learning Yearning - Andrew Ng</td>
-     <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron </td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/david_foster.jpg" width=150></td>
-    <td><img src="static/yearnig.jpg" width=150></td>
-    <td><img src="static/hands-on.jpg" width=150></td>
-  </tr>
-
-  <tr>
-     <td>Deep Learning with PyTorch - Eli Stevens and Luca Antiga </td>
-     <td>Machine Learning: a Probabilistic Perspective - Kevin Patrick Murphy</td>
-     <td>The Hundred-Page Machine Learning Book - Andriy Burkov </td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/pytorch.jpeg" width=150></td>
-    <td><img src="static/kevin_patrick.jpg" width=150></td>
-    <td><img src="static/burkov.jpg" width=150></td>
-  </tr>
-
-  <tr>
-     <td>Computer Vision: Algorithms and Applications - Richard Szeliski </td>
-     <td>Digital Image Processing - Rafael C. Gonzalez and Richard E. Woods</td>
-     <td>Programming Collective Intelligence: Building Smart Web 2.0 Applications - Toby Segaran</td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/computer_vision.jpg" width=150></td>
-    <td><img src="static/digital_image_processing.jpg" width=150></td>
-    <td><img src="static/collective_intelligence.jpg" width=150></td>
-  </tr>
-
-
- </table>
 
 <br />
 
@@ -270,4 +215,4 @@ Table of Contents
 <br />
 
 ---
-Author: Sadman Kabir Soumik
+## Author: Deep Neuron AI
