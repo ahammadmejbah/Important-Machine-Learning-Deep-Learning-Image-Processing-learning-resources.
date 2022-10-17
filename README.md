@@ -1,4 +1,4 @@
-<code><b style="background-color:Orange;"> Important Machine Learning / Deep Learning / Image Processing learning resources. </b></code>
+<code><b style="color:MediumSeaGreen;"> Important Machine Learning / Deep Learning / Image Processing learning resources. </b></code>
 
 Table of Contents
 =================
