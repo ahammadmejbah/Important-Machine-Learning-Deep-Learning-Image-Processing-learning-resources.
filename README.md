@@ -1,4 +1,4 @@
-`Important Machine Learning / Deep Learning / Image Processing learning resources.`
+<code><b "background-color:Tomato;"> Important Machine Learning / Deep Learning / Image Processing learning resources. </b></code>
 
 Table of Contents
 =================
